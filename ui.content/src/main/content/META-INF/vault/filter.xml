@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/computervision" mode="merge"/>
+    <filter root="/content/computervision" mode="merge"/>
+    <filter root="/content/dam/computervision/asset.jpg" mode="merge"/>
+    <filter root="/content/experience-fragments/computervision" mode="merge"/>
+	<filter root="/conf/global/settings/workflow/models/add-ai-generated-metadata" mode="merge"/>
+	<filter root="/var/workflow/models/add-ai-generated-metadata"/>
+</workspaceFilter>
