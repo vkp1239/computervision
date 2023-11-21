@@ -1,5 +1,10 @@
 # Sample AEM project template
 
+
+
+
+mvn -B org.apache.maven.plugins:maven-archetype-plugin:3.2.1:generate -D archetypeGroupId=com.adobe.aem -D archetypeArtifactId=aem-project-archetype -D archetypeVersion=39 -D appTitle="Computer-Vision" -D appId="computervision" -D groupId="com.computervision" -D aemVersion=6.5.5 -D includeExamples=n -D includeErrorHandler=y -D includeDispatcherConfig=n
+
 This is a project template for AEM-based applications. It is intended as a best-practice set of examples as well as a potential starting point to develop your own functionality.
 
 ## Modules
